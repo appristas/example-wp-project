@@ -1,0 +1,23 @@
+# Ignore Composer
+vendor/
+
+# Do not ignore plugins, mu-plugins, themes directories
+!mu-plugins/
+!plugins/
+!themes/
+
+# Ignore everything inside plugins, mu-plugins, themes directories
+mu-plugins/*
+plugins/*
+themes/*
+
+# Do not ignore plugins, mu-plugins, themes that start with fruits- prefix
+!mu-plugins/fruits-*
+!plugins/fruits-*
+!themes/fruits-*
+
+# Ignore uploads
+uploads/
+
+# Ignore languages
+languages/
