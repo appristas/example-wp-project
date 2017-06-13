@@ -1,4 +1,6 @@
-# Fruits WP Backend
+# Fruits WP
+
+Example WP project that is referenced for the Medium article: [Building maintainable Wordpress backends for Single Page Apps](https://medium.com/@gasim.appristas/building-maintainable-wordpress-backends-for-single-page-apps-125a9a3e7637).
 
 ## Installation
 
